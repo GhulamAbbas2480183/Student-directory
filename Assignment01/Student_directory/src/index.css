@@ -1,0 +1,24 @@
+.breadcrumb {
+  background-color: black !important;
+  padding: 10px;
+}
+
+.breadcrumb a,
+.breadcrumb-item.active,
+.breadcrumb-item + .breadcrumb-item::before {
+  color: white !important;
+}
+
+.card {
+  box-shadow: 10px black;
+}
+
+.footer {
+  background-color: rgb(3, 3, 44);
+  color: white;
+  padding: 20px;
+}
+
+.footer-copy {
+  text-align: center;
+}
